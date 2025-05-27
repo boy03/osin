@@ -32,3 +32,6 @@ Jika menggunakan Hunter.io dan API key tersedia, akan menampilkan hasil pencaria
 # ⚠️ Peringatan
 Tool ini hanya untuk edukasi dan pengujian pribadi. Jangan gunakan untuk aktivitas ilegal atau melanggar privasi tanpa izin. Pengembang tidak bertanggung jawab atas penyalahgunaan.
 
+# Foto
+![image](https://github.com/user-attachments/assets/827ae464-f4ce-4eec-9a92-1fd35780b5b6)
+
